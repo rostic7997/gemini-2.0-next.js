@@ -3,7 +3,7 @@
 ## вам нужно получить gemini API key https://ai.google.dev/ 
 
 ## нужно скачать node.js https://nodejs.org/uk/download
-
+нужно создать .evn разработчик меня поймёт 
 # запуск 
 
  ```
